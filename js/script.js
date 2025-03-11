@@ -6,7 +6,7 @@ for(let i = 0; boutonsModale.length; i++){
 
 
 }
-
+oe
 function openModale(){
     const chemin = this.previousElementSibling.getAttribute("src");
     const image = document.createElement("img");
